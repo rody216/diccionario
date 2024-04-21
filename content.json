@@ -1,0 +1,1122 @@
+[
+    {
+        "spanish": "Abdomen",
+        "german": "Bauch"
+    },
+    {
+        "spanish": "Aborto",
+        "german": "Abtreibung"
+    },
+    {
+        "spanish": "Acidez estomacal",
+        "german": "Magensäure"
+    },
+    {
+        "spanish": "Acné",
+        "german": "Akne"
+    },
+    {
+        "spanish": "Alergia",
+        "german": "Allergie"
+    },
+    {
+        "spanish": "Analgésico",
+        "german": "Schmerzmittel"
+    },
+    {
+        "spanish": "Anatomía",
+        "german": "Anatomie"
+    },
+    {
+        "spanish": "Anemia",
+        "german": "Anämie"
+    },
+    {
+        "spanish": "Angina de pecho",
+        "german": "Angina pectoris"
+    },
+    {
+        "spanish": "Anorexia",
+        "german": "Anorexie"
+    },
+    {
+        "spanish": "Antibiótico",
+        "german": "Antibiotikum"
+    },
+    {
+        "spanish": "Anticonceptivo",
+        "german": "Verhütungsmittel"
+    },
+    {
+        "spanish": "Anticoagulante",
+        "german": "Blutverdünner"
+    },
+    {
+        "spanish": "Apendicitis",
+        "german": "Appendizitis"
+    },
+    {
+        "spanish": "Arritmia",
+        "german": "Arrhythmie"
+    },
+    {
+        "spanish": "Arteria",
+        "german": "Arterie"
+    },
+    {
+        "spanish": "Artritis",
+        "german": "Arthritis"
+    },
+    {
+        "spanish": "Asma",
+        "german": "Asthma"
+    },
+    {
+        "spanish": "Ataque cardíaco",
+        "german": "Herzinfarkt"
+    },
+    {
+        "spanish": "Autopsia",
+        "german": "Autopsie"
+    },
+    {
+        "spanish": "Bacteria",
+        "german": "Bakterie"
+    },
+    {
+        "spanish": "Biopsia",
+        "german": "Biopsie"
+    },
+    {
+        "spanish": "Cáncer",
+        "german": "Krebs"
+    },
+    {
+        "spanish": "Cardiólogo",
+        "german": "Kardiologe"
+    },
+    {
+        "spanish": "Cefalea",
+        "german": "Kopfschmerzen"
+    },
+    {
+        "spanish": "Cirugía",
+        "german": "Chirurgie"
+    },
+    {
+        "spanish": "Colesterol",
+        "german": "Cholesterin"
+    },
+    {
+        "spanish": "Congestión nasal",
+        "german": "Nasenverstopfung"
+    },
+    {
+        "spanish": "Convulsión",
+        "german": "Krampfanfall"
+    },
+    {
+        "spanish": "Corazón",
+        "german": "Herz"
+    },
+    {
+        "spanish": "Crisis nerviosa",
+        "german": "Nervenzusammenbruch"
+    },
+    {
+        "spanish": "Diabetes",
+        "german": "Diabetes"
+    },
+    {
+        "spanish": "Diagnóstico",
+        "german": "Diagnose"
+    },
+    {
+        "spanish": "Diálisis",
+        "german": "Dialyse"
+    },
+    {
+        "spanish": "Diarrea",
+        "german": "Durchfall"
+    },
+    {
+        "spanish": "Digestión",
+        "german": "Verdauung"
+    },
+    {
+        "spanish": "Dolor",
+        "german": "Schmerz"
+    },
+    {
+        "spanish": "Ecografía",
+        "german": "Ultraschall"
+    },
+    {
+        "spanish": "Electrocardiograma",
+        "german": "Elektrokardiogramm"
+    },
+    {
+        "spanish": "Embrión",
+        "german": "Embryo"
+    },
+    {
+        "spanish": "Enfermedad",
+        "german": "Krankheit"
+    },
+    {
+        "spanish": "Epilepsia",
+        "german": "Epilepsie"
+    },
+    {
+        "spanish": "Esclerosis",
+        "german": "Sklerose"
+    },
+    {
+        "spanish": "Esguince",
+        "german": "Verstauchung"
+    },
+    {
+        "spanish": "Estrés",
+        "german": "Stress"
+    },
+    {
+        "spanish": "Faringitis",
+        "german": "Rachenentzündung"
+    },
+    {
+        "spanish": "Fiebre",
+        "german": "Fieber"
+    },
+    {
+        "spanish": "Fractura",
+        "german": "Fraktur"
+    },
+    {
+        "spanish": "Gastroenteritis",
+        "german": "Gastroenteritis"
+    },
+    {
+        "spanish": "Genética",
+        "german": "Genetik"
+    },
+    {
+        "spanish": "Gripe",
+        "german": "Grippe"
+    },
+    {
+        "spanish": "Hemorragia",
+        "german": "Blutung"
+    },
+    {
+        "spanish": "Hepatitis",
+        "german": "Hepatitis"
+    },
+    {
+        "spanish": "Herida",
+        "german": "Verletzung"
+    },
+    {
+        "spanish": "Hospital",
+        "german": "Krankenhaus"
+    },
+    {
+        "spanish": "Infarto cerebral",
+        "german": "Schlaganfall"
+    },
+    {
+        "spanish": "Infección",
+        "german": "Infektion"
+    },
+    {
+        "spanish": "Inflamación",
+        "german": "Entzündung"
+    },
+    {
+        "spanish": "Insomnio",
+        "german": "Schlaflosigkeit"
+    },
+    {
+        "spanish": "Intoxicación",
+        "german": "Vergiftung"
+    },
+    {
+        "spanish": "Laringitis",
+        "german": "Kehlkopfentzündung"
+    },
+    {
+        "spanish": "Leucemia",
+        "german": "Leukämie"
+    },
+    {
+        "spanish": "Medicamento",
+        "german": "Medikament"
+    },
+    {
+        "spanish": "Médico",
+        "german": "Arzt"
+    },
+    {
+        "spanish": "Meningitis",
+        "german": "Meningitis"
+    },
+    {
+        "spanish": "Náuseas",
+        "german": "Übelkeit"
+    },
+    {
+        "spanish": "Neumonía",
+        "german": "Lungenentzündung"
+    },
+    {
+        "spanish": "Neurología",
+        "german": "Neurologie"
+    },
+    {
+        "spanish": "Obesidad",
+        "german": "Fettleibigkeit"
+    },
+    {
+        "spanish": "Oftalmología",
+        "german": "Augenheilkunde"
+    },
+    {
+        "spanish": "Operación",
+        "german": "Operation"
+    },
+    {
+        "spanish": "Órgano",
+        "german": "Organ"
+    },
+    {
+        "spanish": "Ortopedia",
+        "german": "Orthopädie"
+    },
+    {
+        "spanish": "Osteoporosis",
+        "german": "Osteoporose"
+    },
+    {
+        "spanish": "Pacemaker",
+        "german": "Herzschrittmacher"
+    },
+    {
+        "spanish": "Parálisis",
+        "german": "Lähmung"
+    },
+    {
+        "spanish": "Piel",
+        "german": "Haut"
+    },
+    {
+        "spanish": "Píldora anticonceptiva",
+        "german": "Antibabypille"
+    },
+    {
+        "spanish": "Presión arterial",
+        "german": "Blutdruck"
+    },
+    {
+        "spanish": "Problema cardíaco",
+        "german": "Herzproblem"
+    },
+    {
+        "spanish": "Problema respiratorio",
+        "german": "Atemproblem"
+    },
+    {
+        "spanish": "Prueba de sangre",
+        "german": "Blutuntersuchung"
+    },
+    {
+        "spanish": "Psiquiatra",
+        "german": "Psychiater"
+    },
+    {
+        "spanish": "Radiografía",
+        "german": "Röntgenaufnahme"
+    },
+    {
+        "spanish": "Quemadura",
+        "german": "Verbrennung"
+    },
+    {
+        "spanish": "Reacción alérgica",
+        "german": "Allergische Reaktion"
+    },
+    {
+        "spanish": "Rehabilitación",
+        "german": "Rehabilitation"
+    },
+    {
+        "spanish": "Resfriado",
+        "german": "Erkältung"
+    },
+    {
+        "spanish": "Respiración",
+        "german": "Atmung"
+    },
+    {
+        "spanish": "Resucitación",
+        "german": "Wiederbelebung"
+    },
+    {
+        "spanish": "Riesgo",
+        "german": "Risiko"
+    },
+    {
+        "spanish": "Sangrado",
+        "german": "Bluten"
+    },
+    {
+        "spanish": "Síndrome",
+        "german": "Syndrom"
+    },
+    {
+        "spanish": "Síntoma",
+        "german": "Symptom"
+    },
+    {
+        "spanish": "Sistema nervioso",
+        "german": "Nervensystem"
+    },
+    {
+        "spanish": "Terapia",
+        "german": "Therapie"
+    },
+    {
+        "spanish": "Tumor",
+        "german": "Tumor"
+    },
+    {
+        "spanish": "Vacuna",
+        "german": "Impfung"
+    },
+    {
+        "spanish": "Virus",
+        "german": "Virus"
+    },
+    {
+        "spanish": "Vomitar",
+        "german": "Erbrechen"
+    },
+    {
+        "spanish": "Yodo",
+        "german": "Jod"
+    },
+    {
+        "spanish": "Zona",
+        "german": "Zone"
+    },
+    {
+        "spanish": "Apéndice",
+        "german": "Wurmfortsatz"
+    },
+    {
+        "spanish": "Bazo",
+        "german": "Milz"
+    },
+    {
+        "spanish": "Bronquitis",
+        "german": "Bronchitis"
+    },
+    {
+        "spanish": "Calambre",
+        "german": "Muskelkrampf"
+    },
+    {
+        "spanish": "Cálculo renal",
+        "german": "Nierenstein"
+    },
+    {
+        "spanish": "Cálculo vesicular",
+        "german": "Gallenstein"
+    },
+    {
+        "spanish": "Cáncer de mama",
+        "german": "Brustkrebs"
+    },
+    {
+        "spanish": "Cáncer de próstata",
+        "german": "Prostatakrebs"
+    },
+    {
+        "spanish": "Cáncer de pulmón",
+        "german": "Lungenkrebs"
+    },
+    {
+        "spanish": "Cáncer de piel",
+        "german": "Hautkrebs"
+    },
+    {
+        "spanish": "Cáncer de tiroides",
+        "german": "Schilddrüsenkrebs"
+    },
+    {
+        "spanish": "Cáncer de útero",
+        "german": "Gebärmutterkrebs"
+    },
+    {
+        "spanish": "Catéter",
+        "german": "Katheter"
+    },
+    {
+        "spanish": "Cefalalgia",
+        "german": "Kopfschmerz"
+    },
+    {
+        "spanish": "Cirrosis",
+        "german": "Leberzirrhose"
+    },
+    {
+        "spanish": "Colitis",
+        "german": "Kolitis"
+    },
+    {
+        "spanish": "Cólico",
+        "german": "Kolik"
+    },
+    {
+        "spanish": "Contractura",
+        "german": "Muskelverspannung"
+    },
+    {
+        "spanish": "Coronavirus",
+        "german": "Coronavirus"
+    },
+    {
+        "spanish": "Dengue",
+        "german": "Dengue-Fieber"
+    },
+    {
+        "spanish": "Depresión",
+        "german": "Depression"
+    },
+    {
+        "spanish": "Desmayo",
+        "german": "Ohnmacht"
+    },
+    {
+        "spanish": "Diarrea aguda",
+        "german": "Akuter Durchfall"
+    },
+    {
+        "spanish": "Disnea",
+        "german": "Atemnot"
+    },
+    {
+        "spanish": "Displasia",
+        "german": "Dysplasie"
+    },
+    {
+        "spanish": "Dispositivo intrauterino",
+        "german": "Intrauterinpessar"
+    },
+    {
+        "spanish": "Distensión abdominal",
+        "german": "Bauchdehnung"
+    },
+    {
+        "spanish": "Dolencia",
+        "german": "Beschwerde"
+    },
+    {
+        "spanish": "Dolor abdominal",
+        "german": "Bauchschmerzen"
+    },
+    {
+        "spanish": "Dolor agudo",
+        "german": "Akuter Schmerz"
+    },
+    {
+        "spanish": "Dolor crónico",
+        "german": "Chronischer Schmerz"
+    },
+    {
+        "spanish": "Dolor de cabeza",
+        "german": "Kopfschmerz"
+    },
+    {
+        "spanish": "Dolor de garganta",
+        "german": "Halsschmerzen"
+    },
+    {
+        "spanish": "Dolor de muelas",
+        "german": "Zahnschmerzen"
+    },
+    {
+        "spanish": "Dolor de oídos",
+        "german": "Ohrenschmerzen"
+    },
+    {
+        "spanish": "Dolor de pecho",
+        "german": "Brustschmerz"
+    },
+    {
+        "spanish": "Dolor de rodilla",
+        "german": "Knieschmerzen"
+    },
+    {
+        "spanish": "Dolor de espalda",
+        "german": "Rückenschmerzen"
+    },
+    {
+        "spanish": "Dolor lumbar",
+        "german": "Lumbalschmerz"
+    },
+    {
+        "spanish": "Dolor muscular",
+        "german": "Muskelschmerz"
+    },
+    {
+        "spanish": "Dolor torácico",
+        "german": "Thoraxschmerzen"
+    },
+    {
+        "spanish": "Doloroso",
+        "german": "Schmerzhaft"
+    },
+    {
+        "spanish": "Ecografía abdominal",
+        "german": "Abdominaler Ultraschall"
+    },
+    {
+        "spanish": "Ecografía renal",
+        "german": "Nierenultraschall"
+    },
+    {
+        "spanish": "Ecografía vesical",
+        "german": "Blasenultraschall"
+    },
+    {
+        "spanish": "Electroencefalograma",
+        "german": "Elektroenzephalogramm"
+    },
+    {
+        "spanish": "Embolia",
+        "german": "Embolie"
+    },
+    {
+        "spanish": "Endoscopia",
+        "german": "Endoskopie"
+    },
+    {
+        "spanish": "Enfermedad cardiovascular",
+        "german": "Herz-Kreislauf-Erkrankung"
+    },
+    {
+        "spanish": "Enfermedad crónica",
+        "german": "Chronische Krankheit"
+    },
+    {
+        "spanish": "Enfermedad degenerativa",
+        "german": "Degenerative Krankheit"
+    },
+    {
+        "spanish": "Enfermedad hereditaria",
+        "german": "Erbkrankheit"
+    },
+    {
+        "spanish": "Enfermedad infecciosa",
+        "german": "Infektionskrankheit"
+    },
+    {
+        "spanish": "Enfermedad mental",
+        "german": "Psychische Erkrankung"
+    },
+    {
+        "spanish": "Enfermedad terminal",
+        "german": "Terminalkrankheit"
+    },
+    {
+        "spanish": "Enfermedad vírica",
+        "german": "Viruskrankheit"
+    },
+    {
+        "spanish": "Enfermedades respiratorias",
+        "german": "Atemwegserkrankungen"
+    },
+    {
+        "spanish": "Endometriosis",
+        "german": "Endometriose"
+    },
+    {
+        "spanish": "Epicondilitis",
+        "german": "Epicondylitis"
+    },
+    {
+        "spanish": "Epidemia",
+        "german": "Epidemie"
+    },
+    {
+        "spanish": "Epidermis",
+        "german": "Epidermis"
+    },
+    {
+        "spanish": "Epilepsia temporal",
+        "german": "Temporallappenepilepsie"
+    },
+    {
+        "spanish": "Eritema",
+        "german": "Erythem"
+    },
+    {
+        "spanish": "Eritrocitos",
+        "german": "Erythrozyten"
+    },
+    {
+        "spanish": "Esofagitis",
+        "german": "Ösophagitis"
+    },
+    {
+        "spanish": "Espasmo",
+        "german": "Krampf"
+    },
+    {
+        "spanish": "Estenosis",
+        "german": "Stenose"
+    },
+    {
+        "spanish": "Estómago",
+        "german": "Magen"
+    },
+    {
+        "spanish": "Estreñimiento",
+        "german": "Verstopfung"
+    },
+    {
+        "spanish": "Faringe",
+        "german": "Rachen"
+    },
+    {
+        "spanish": "Fibrosis",
+        "german": "Fibrose"
+    },
+    {
+        "spanish": "Flujo vaginal",
+        "german": "Vaginaler Ausfluss"
+    },
+    {
+        "spanish": "Fotofobia",
+        "german": "Photophobie"
+    },
+    {
+        "spanish": "Fractura cerrada",
+        "german": "Geschlossener Bruch"
+    },
+    {
+        "spanish": "Fractura expuesta",
+        "german": "Offener Bruch"
+    },
+    {
+        "spanish": "Furúnculo",
+        "german": "Furunkel"
+    },
+    {
+        "spanish": "Gangrena",
+        "german": "Gangrän"
+    },
+    {
+        "spanish": "Gastritis",
+        "german": "Gastritis"
+    },
+    {
+        "spanish": "Glándula",
+        "german": "Drüse"
+    },
+    {
+        "spanish": "Glaucoma",
+        "german": "Glaukom"
+    },
+    {
+        "spanish": "Gonorrea",
+        "german": "Gonorrhö"
+    },
+    {
+        "spanish": "Hematoma",
+        "german": "Hämatom"
+    },
+    {
+        "spanish": "Hemoglobina",
+        "german": "Hämoglobin"
+    },
+    {
+        "spanish": "Hemorragia cerebral",
+        "german": "Hirnblutung"
+    },
+    {
+        "spanish": "Hemorroides",
+        "german": "Hämorrhoiden"
+    },
+    {
+        "spanish": "Hepatología",
+        "german": "Hepatologie"
+    },
+    {
+        "spanish": "Hernia",
+        "german": "Hernie"
+    },
+    {
+        "spanish": "Hígado",
+        "german": "Leber"
+    },
+    {
+        "spanish": "Hipertensión",
+        "german": "Hypertonie"
+    },
+    {
+        "spanish": "Hipotensión",
+        "german": "Hypotonie"
+    },
+    {
+        "spanish": "Hipertermia",
+        "german": "Hyperthermie"
+    },
+    {
+        "spanish": "Hipertermia maligna",
+        "german": "Maligne Hyperthermie"
+    },
+    {
+        "spanish": "Hipertrofia",
+        "german": "Hypertrophie"
+    },
+    {
+        "spanish": "Hiperuricemia",
+        "german": "Hyperurikämie"
+    },
+    {
+        "spanish": "Hipoglucemia",
+        "german": "Hypoglykämie"
+    },
+    {
+        "spanish": "Hipotermia",
+        "german": "Hypothermie"
+    },
+    {
+        "spanish": "Hipoxemia",
+        "german": "Hypoxämie"
+    },
+    {
+        "spanish": "Ictericia",
+        "german": "Ikterus"
+    },
+    {
+        "spanish": "Impétigo",
+        "german": "Impetigo"
+    },
+    {
+        "spanish": "Insuficiencia cardíaca",
+        "german": "Herzinsuffizienz"
+    },
+    {
+        "spanish": "Insuficiencia renal",
+        "german": "Niereninsuffizienz"
+    },
+    {
+        "spanish": "Insuficiencia respiratoria",
+        "german": "Ateminsuffizienz"
+    },
+    {
+        "spanish": "Isquemia",
+        "german": "Ischämie"
+    },
+    {
+        "spanish": "Ictus",
+        "german": "Schlaganfall"
+    },
+    {
+        "spanish": "Laboratorio",
+        "german": "Labor"
+    },
+    {
+        "spanish": "Leptospirosis",
+        "german": "Leptospirose"
+    },
+    {
+        "spanish": "Leucocitos",
+        "german": "Leukozyten"
+    },
+    {
+        "spanish": "Linfoma",
+        "german": "Lymphom"
+    },
+    {
+        "spanish": "Lumbalgia",
+        "german": "Lumbalgie"
+    },
+    {
+        "spanish": "Malaria",
+        "german": "Malaria"
+    },
+    {
+        "spanish": "Melanoma",
+        "german": "Melanom"
+    },
+    {
+        "spanish": "Meningoencefalitis",
+        "german": "Meningoenzephalitis"
+    },
+    {
+        "spanish": "Metabolismo",
+        "german": "Stoffwechsel"
+    },
+    {
+        "spanish": "Metástasis",
+        "german": "Metastase"
+    },
+    {
+        "spanish": "Mielitis",
+        "german": "Myelitis"
+    },
+    {
+        "spanish": "Mononucleosis",
+        "german": "Mononukleose"
+    },
+    {
+        "spanish": "Mucosa",
+        "german": "Schleimhaut"
+    },
+    {
+        "spanish": "Neuralgia",
+        "german": "Neuralgie"
+    },
+    {
+        "spanish": "Neuritis",
+        "german": "Neuritis"
+    },
+    {
+        "spanish": "Neuropatía",
+        "german": "Neuropathie"
+    },
+    {
+        "spanish": "Neurólogo",
+        "german": "Neurologe"
+    },
+    {
+        "spanish": "Neurosis",
+        "german": "Neurose"
+    },
+    {
+        "spanish": "Oclusión",
+        "german": "Okklusion"
+    },
+    {
+        "spanish": "Oftalmoplejía",
+        "german": "Ophthalmoplegie"
+    },
+    {
+        "spanish": "Oliguria",
+        "german": "Oligurie"
+    },
+    {
+        "spanish": "Oncología",
+        "german": "Onkologie"
+    },
+    {
+        "spanish": "Osteoartritis",
+        "german": "Osteoarthritis"
+    },
+    {
+        "spanish": "Otitis",
+        "german": "Otitis"
+    },
+    {
+        "spanish": "Pancreatitis",
+        "german": "Pankreatitis"
+    },
+    {
+        "spanish": "Parasitosis",
+        "german": "Parasitose"
+    },
+    {
+        "spanish": "Patología",
+        "german": "Pathologie"
+    },
+    {
+        "spanish": "Pediculosis",
+        "german": "Pediculosis"
+    },
+    {
+        "spanish": "Pérdida de audición",
+        "german": "Hörverlust"
+    },
+    {
+        "spanish": "Pérdida de conciencia",
+        "german": "Bewusstseinsverlust"
+    },
+    {
+        "spanish": "Pericarditis",
+        "german": "Perikarditis"
+    },
+    {
+        "spanish": "Peritonitis",
+        "german": "Peritonitis"
+    },
+    {
+        "spanish": "Pertussis",
+        "german": "Keuchhusten"
+    },
+    {
+        "spanish": "Pielonefritis",
+        "german": "Pyelonephritis"
+    },
+    {
+        "spanish": "Pirexia",
+        "german": "Pyrexie"
+    },
+    {
+        "spanish": "Pleuritis",
+        "german": "Pleuritis"
+    },
+    {
+        "spanish": "Polineuritis",
+        "german": "Polyneuritis"
+    },
+    {
+        "spanish": "Poliomielitis",
+        "german": "Poliomyelitis"
+    },
+    {
+        "spanish": "Poliuria",
+        "german": "Polyurie"
+    },
+    {
+        "spanish": "Psoriasis",
+        "german": "Psoriasis"
+    },
+    {
+        "spanish": "Pulmonía",
+        "german": "Lungenentzündung"
+    },
+    {
+        "spanish": "Queratitis",
+        "german": "Keratitis"
+    },
+    {
+        "spanish": "Quiste",
+        "german": "Zyste"
+    },
+    {
+        "spanish": "Rabia",
+        "german": "Tollwut"
+    },
+    {
+        "spanish": "Reacción adversa",
+        "german": "Nebenwirkung"
+    },
+    {
+        "spanish": "Reflujo gastroesofágico",
+        "german": "Gastroösophagealer Reflux"
+    },
+    {
+        "spanish": "Regurgitación",
+        "german": "Regurgitation"
+    },
+    {
+        "spanish": "Resfriado común",
+        "german": "Gemeinsame Erkältung"
+    },
+    {
+        "spanish": "Rinitis",
+        "german": "Rhinitis"
+    },
+    {
+        "spanish": "Rubéola",
+        "german": "Röteln"
+    },
+    {
+        "spanish": "Sarampión",
+        "german": "Masern"
+    },
+    {
+        "spanish": "Sífilis",
+        "german": "Syphilis"
+    },
+    {
+        "spanish": "Sinusitis",
+        "german": "Sinusitis"
+    },
+    {
+        "spanish": "Síndrome de Down",
+        "german": "Down-Syndrom"
+    },
+    {
+        "spanish": "Síndrome de inmunodeficiencia adquirida",
+        "german": "AIDS"
+    },
+    {
+        "spanish": "Síndrome de ovario poliquístico",
+        "german": "Polyzystisches Ovarsyndrom"
+    },
+    {
+        "spanish": "Síndrome de shock tóxico",
+        "german": "Toxisches Schocksyndrom"
+    },
+    {
+        "spanish": "Síndrome del intestino irritable",
+        "german": "Reizdarmsyndrom"
+    },
+    {
+        "spanish": "Síndrome del túnel carpiano",
+        "german": "Karpaltunnelsyndrom"
+    },
+    {
+        "spanish": "Síndrome del corazón roto",
+        "german": "Broken-Heart-Syndrom"
+    },
+    {
+        "spanish": "Taquicardia",
+        "german": "Tachykardie"
+    },
+    {
+        "spanish": "Tétanos",
+        "german": "Tetanus"
+    },
+    {
+        "spanish": "Trombosis",
+        "german": "Thrombose"
+    },
+    {
+        "spanish": "Tuberculosis",
+        "german": "Tuberkulose"
+    },
+    {
+        "spanish": "Úlcera",
+        "german": "Geschwür"
+    },
+    {
+        "spanish": "Urgencia",
+        "german": "Dringlichkeit"
+    },
+    {
+        "spanish": "Urología",
+        "german": "Urologie"
+    },
+    {
+        "spanish": "Varicela",
+        "german": "Windpocken"
+    },
+    {
+        "spanish": "Varices",
+        "german": "Krampfadern"
+    },
+    {
+        "spanish": "Vejez",
+        "german": "Alter"
+    },
+    {
+        "spanish": "Vertebras",
+        "german": "Wirbel"
+    },
+    {
+        "spanish": "Vesícula",
+        "german": "Blase"
+    },
+    {
+        "spanish": "Vitíligo",
+        "german": "Vitiligo"
+    },
+    {
+        "spanish": "Xerostomía",
+        "german": "Xerostomie"
+    }
+]

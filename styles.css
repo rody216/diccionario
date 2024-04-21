@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background: #112031;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.card {
+    position: relative;
+    width: 300px;
+    height: 400px;
+    margin-bottom: 10px;
+}
+
+.card div {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backface-visibility: hidden;
+    transition: 1s;
+}
+
+.card .front {
+    background: #288ca0;
+    transform: perspective(500px) rotateY(0deg);
+}
+
+.card .back {
+    background: #682fc4;
+    transform: perspective(500px) rotateY(180deg);
+}
+
+.card:hover .front {
+    transform: perspective(500px) rotateY(180deg);
+}
+
+.card:hover .back {
+    transform: perspective(500px) rotateY(360deg);
+}
+
+.card div h1 {
+    font-size: 40px;
+    color: #f1f1f1;
+}
+
+/* Estilos para los botones */
+.flip-buttons-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    width: 300px;
+}
+
+.flip-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Estilos para los botones cuando la tarjeta A está visible */
+.card:hover .flip-button, .card-a .flip-button {
+    background-color: #288ca0;
+    color: #f1f1f1;
+    transition: 2s;
+}
+
+/* Estilos para los botones cuando la tarjeta B está visible */
+.card:hover .back + .flip-button, .card-b .flip-button {
+    background-color: #682fc4;
+    color: #f1f1f1;
+    transition: 2s;
+}
